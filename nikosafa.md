@@ -12,3 +12,7 @@
 - MySQL
 - MongoDB
 - Python (Not Yet)
+
+### Personal/School projects:
+- https://github.com/nikosafa/vejr.weather
+- https://github.com/nikosafa/Portfolio-3-Web-Data
