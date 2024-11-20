@@ -1,7 +1,7 @@
 # Simon Eriksen
 ## Junkersje
 
-!(https://github.com/Junkersje/Images4Links/blob/main/Me/medIS.jpg)
+![IS](https://github.com/Junkersje/Images4Links/blob/main/Me/medIS.jpg)
 
 ---
 ## Currently working on
