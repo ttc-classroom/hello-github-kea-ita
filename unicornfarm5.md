@@ -1,6 +1,5 @@
 # Linea Skræp
 ## unicornfarm5
-- (billede)
 ## Things i am working on
 - Learning javaScript
 - API's
