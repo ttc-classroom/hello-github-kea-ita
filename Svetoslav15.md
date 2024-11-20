@@ -31,5 +31,7 @@ Github repository 2 [Link](https://github.com/Svetoslav15/node-mysql2.git)
 
 Github repository 3 [Link](https://github.com/Svetoslav15/js-test-ita23.git)
 
-Gmail: [rasiyski@gmail.com](rasiyski@gmail.com)
+Gmail: rasiyski@gmail.com
+
+#### I want to work with huge IT companies into the digital development department
 
