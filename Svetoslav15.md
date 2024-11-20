@@ -25,8 +25,11 @@ Tableu
 ```
 Gephi
 ```
-Github repositories [Link-1](https://github.com/Svetoslav15/js-test-preparation-ita23.git)
+Github repository 1 [Link](https://github.com/Svetoslav15/js-test-preparation-ita23.git)
 
-Github repositories [Link-2](https://github.com/Svetoslav15/node-mysql2.git)
+Github repository 2 [Link](https://github.com/Svetoslav15/node-mysql2.git)
 
-Github repositories [Link-3](https://github.com/Svetoslav15/js-test-ita23.git)
+Github repository 3 [Link](https://github.com/Svetoslav15/js-test-ita23.git)
+
+Gmail: [rasiyski@gmail.com](rasiyski@gmail.com)
+
