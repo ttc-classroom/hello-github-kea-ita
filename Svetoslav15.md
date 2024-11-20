@@ -7,8 +7,21 @@
 Portfolio 5 document (Fitness machines)
 ```
 ```
-Portfolio 5 document (Fitness machines)
+AI Generative website
+```
+###List of Programming languages and technologies
+```
+Webstorm 
 ```
 ```
-Portfolio 5 document (Fitness machines)
+MongoDB
+```
+```
+SQL
+```
+```
+Tableu
+```
+```
+Gephi
 ```
