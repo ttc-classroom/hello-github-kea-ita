@@ -15,4 +15,5 @@
 
 ### Personal/School projects:
 - https://github.com/nikosafa/vejr.weather
+- https://nikosafa.github.io/Generative-AI-tool-1-Semester/
 - https://github.com/nikosafa/Portfolio-3-Web-Data
