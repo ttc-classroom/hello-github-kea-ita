@@ -14,6 +14,9 @@
 - Python (Not Yet)
 
 ### Personal/School projects:
-- https://github.com/nikosafa/vejr.weather
-- https://nikosafa.github.io/Generative-AI-tool-1-Semester/
-- https://github.com/nikosafa/Portfolio-3-Web-Data
+- Repository:  https://github.com/nikosafa/vejr.weather
+- Website:     https://nikosafa.github.io/vejr.weather/
+
+- Repository:  https://github.com/nikosafa/Generative-AI-tool-1-Semester
+-  Website:    https://nikosafa.github.io/Generative-AI-tool-1-Semester/
+  
